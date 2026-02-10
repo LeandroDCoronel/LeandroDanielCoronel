@@ -21,7 +21,7 @@ International Trade and Export Operations.
 Interactive dashboard simulating real manufacturing operations.
 
 🌐 Live app: *(deploying)*  
-📂 GitHub repo: https://github.com/TU_USUARIO/supply-chain-dashboard
+📂 GitHub repo: https://github.com/LeandroDCoronel/supply-chain-dashboard
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/leandro-daniel-coronel/
