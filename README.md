@@ -1,28 +1,48 @@
-# LeandroDanielCoronel
-Supply Chain &amp; Business Intelligence Analyst | Python dashboards for inventory, logistics and international trade operations
-## 👋 Hi, I'm Leandro Coronel
+# 👋 Hi, I'm Leandro Coronel
 
-Supply Chain & Business Intelligence Analyst with a background in
-International Trade and Export Operations.
+**Machine Learning Engineer | Data Scientist**  
+*Applied ML | Predictive Maintenance | Industrial Analytics*
 
-### 🔍 What I do
-- Analyze inventory, logistics and dispatch operations
-- Build BI dashboards using Python & Streamlit
-- Apply data analysis to supply chain and international trade decision-making
+📍 Ambato, Ecuador | 🌎 English B2 | 💼 Open to remote work
 
-### 🛠️ Tech Stack
-- Python, Pandas
-- Streamlit
-- Data Analysis & Visualization
-- Supply Chain & International Trade
+---
 
-### 📊 Featured Project
-🔹 **Supply Chain Dashboard – Inventory & Dispatch Analysis**  
-Interactive dashboard simulating real manufacturing operations.
+## 🔧 What I Build
 
-🌐 Live app: *(deploying)*  
-📂 GitHub repo: https://github.com/LeandroDCoronel/supply-chain-dashboard
+- **ML pipelines** for industrial predictive maintenance (Random Forest, 98% accuracy)
+- **Interactive dashboards** with Streamlit for supply chain analytics
+- **Risk analysis systems** with deterministic signaling
+- **CLI tools** with semantic versioning and clean architecture
 
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/leandro-daniel-coronel/
-- Email: leandro.d.coronel@gmail.com
+---
+
+## 📊 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Predictive Maintenance](https://github.com/LeandroDCoronel/predictive-maintenance-motor-current)** | End-to-end ML pipeline for motor fault detection. 98% accuracy after feature engineering. | Python, scikit-learn, Random Forest, MATLAB |
+| **[Oraculum Core Axiomatics](https://github.com/LeandroDCoronel/oraculum-core-axiomatics)** | CLI-based personal KPI system with semantic versioning and JSON logging. | Python, CLI, JSON |
+| **[Oraculum Cashflow Sentinel](https://github.com/LeandroDCoronel/Oraculum-Cashflow-Sentinel)** | Financial risk analysis for supply chains with deterministic signaling. | Python, Risk Analysis |
+| **[Supply Chain Dashboard](https://github.com/LeandroDCoronel/supply-chain-dashboard)** | Real-time logistics KPIs and inventory analytics. | Python, Streamlit, Plotly |
+
+---
+
+## 🎓 Certifications
+
+- Google Advanced Data Analytics (Python, ML, scikit-learn)
+- SAS Statistical Business Analyst
+- Microsoft Power BI Data Analyst
+- Prompt Engineering / Generative AI
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-daniel-coronel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/LeandroDCoronel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandro.d.coronel@gmail.com)
+
+---
+
+*"Building intelligent systems for industrial and civic applications."*
+
