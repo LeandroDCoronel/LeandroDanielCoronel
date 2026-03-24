@@ -36,6 +36,13 @@
 
 ---
 
+## 🚀 Current Focus
+- Industrial AI systems
+- Applied Machine Learning deployment
+- Building real-world data products
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-daniel-coronel)
